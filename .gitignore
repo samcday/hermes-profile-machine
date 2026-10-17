@@ -1,0 +1,8 @@
+# This is authored source, never a live Hermes home.
+# Keep everything out unless it is deliberately part of the distribution repo.
+/*
+!/.gitignore
+!/AGENTS.md
+!/README
+!/SOUL.md
+!/distribution.yaml
