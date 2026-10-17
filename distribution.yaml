@@ -1,0 +1,9 @@
+name: machine
+version: 0.1.0
+description: "A shared persona for machines that speak as themselves."
+author: samcday
+
+# Own only the common persona. Device identity and configuration stay local.
+distribution_owned:
+  - SOUL.md
+  - distribution.yaml
